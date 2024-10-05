@@ -1,5 +1,0 @@
-/  {
-	chosen {
-		zmk,display = &ssd1306;
-	};
-};
